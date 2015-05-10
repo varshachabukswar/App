@@ -1,0 +1,21 @@
+H:\AndroidWear\cordova\platforms\android\ant-build\classes.dex : \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\BuildConfig.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\CordovaApp.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\Hello$MessageReceiver.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\Hello.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\ListenerService.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$attr.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$color.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$drawable.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$id.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$integer.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$raw.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$string.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$style.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$styleable.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R$xml.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\R.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\classes\com\domain\AndroidWear\SendToDataLayerThread.class \
+H:\AndroidWear\cordova\platforms\android\ant-build\dexedLibs\classes-3e10dc9a04823697d6f233a4b620cab0.jar \
+H:\AndroidWear\cordova\platforms\android\ant-build\dexedLibs\google-play-services-142c7e9f479ea6598d3facf75c19ac9e.jar \
+H:\AndroidWear\cordova\platforms\android\ant-build\dexedLibs\android-support-v4-70a8e27d6109985350ebcca89a695c1d.jar \

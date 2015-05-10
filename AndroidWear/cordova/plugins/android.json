@@ -1,0 +1,26 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "res/xml/config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Hello\"><param name=\"android-package\" value=\"com.domain.AndroidWear.Hello\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.domain.AndroidWear": {
+            "PACKAGE_NAME": "com.domain.AndroidWear"
+        }
+    },
+    "dependent_plugins": {}
+}
